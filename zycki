@@ -1,1 +1,36 @@
-git clone https://github.com/zycki98/zycki98.github.io
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfólio de Rodrigo Mendrzycki</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+
+<header>
+    <h1>Bem-vindo ao meu Portfólio</h1>
+    <nav>
+        <ul>
+            <li><a href="inicio.html">Início</a></li>
+            <li><a href="sobremim.htm">Sobre Mim</a></li>
+            <li><a href="formacao.html">Formação</a></li>
+            <li><a href="portifolio.html">Portfólio</a></li>
+            <li><a href="contato.html">Contato</a></li>
+        </ul>
+    </nav>
+</header>
+
+<main>
+    <section>
+        <h2>Olá, eu sou Rodrigo Mendrzycki</h2>
+        <p>Bem-vindo ao meu portfólio online, aqui você encontrará informações sobre minha formação, projetos e como entrar em contato comigo.</p>
+    </section>
+</main>
+
+<footer>
+    <p>© 2024 Rodrigo Mendrzycki. Todos os direitos reservados.</p>
+</footer>
+
+</body>
+</html>
